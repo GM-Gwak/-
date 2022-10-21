@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\bin\Debug\WindowsFormApp_TcpServer.exe.config
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\bin\Debug\WindowsFormApp_TcpServer.exe
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\bin\Debug\WindowsFormApp_TcpServer.pdb
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.exe
+C:\Users\Admin\source\repos\WindowsFormApp_TcpServer\WindowsFormApp_TcpServer\obj\Debug\WindowsFormApp_TcpServer.pdb
