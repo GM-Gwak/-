@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Admin\source\repos\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\Admin\source\repos\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Admin\source\repos\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Delegate\Delegate\obj\Debug\Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\Admin\source\repos\Delegate\Delegate\obj\Debug\Delegate.pdb
