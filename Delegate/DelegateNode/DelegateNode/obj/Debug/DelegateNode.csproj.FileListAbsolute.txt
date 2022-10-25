@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\bin\Debug\DelegateNode.exe.config
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\bin\Debug\DelegateNode.exe
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\bin\Debug\DelegateNode.pdb
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\obj\Debug\DelegateNode.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\obj\Debug\DelegateNode.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\obj\Debug\DelegateNode.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\obj\Debug\DelegateNode.exe
-C:\Users\Admin\source\repos\DelegateNode\DelegateNode\obj\Debug\DelegateNode.pdb
