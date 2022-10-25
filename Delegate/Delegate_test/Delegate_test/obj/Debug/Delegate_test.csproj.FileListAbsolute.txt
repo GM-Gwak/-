@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\bin\Debug\Delegate_test.exe.config
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\bin\Debug\Delegate_test.exe
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\bin\Debug\Delegate_test.pdb
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\obj\Debug\Delegate_test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\obj\Debug\Delegate_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\obj\Debug\Delegate_test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\obj\Debug\Delegate_test.exe
+C:\Users\Admin\source\repos\Delegate_test\Delegate_test\obj\Debug\Delegate_test.pdb
