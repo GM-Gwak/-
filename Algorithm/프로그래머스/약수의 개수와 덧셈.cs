@@ -41,3 +41,4 @@ namespace ConsoleApp7
         }
     }
 }
+left부터 right까지 약수의 개수가 짝수이면 left를 더하고 홀수이면 다
